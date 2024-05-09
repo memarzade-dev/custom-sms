@@ -16,7 +16,7 @@
         "illuminate/notifications": "~8.0 || ~9.0 || ~10.0 || ~11.0",
         "illuminate/support": "~8.0 || ~9.0 || ~10.0 || ~11.0",
         "symfony/http-client": "^7.0",
-        "memarzade-dev/customsms": "dev-master"
+        "memarzade-dev/customsms": "*"
     },
     "require-dev": {
 
